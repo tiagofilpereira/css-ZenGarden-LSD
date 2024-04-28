@@ -1,6 +1,6 @@
 # Versão_01 do trabalho CSS ZENGARDEN.
 (Versão final)
-
+Trabalho no âmbito da disciplina de Development - LSD (Lisbon School of Design)
 --------
 
 Link protótipo do Figma:
